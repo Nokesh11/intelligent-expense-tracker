@@ -1,0 +1,9 @@
+{
+  "extends": "expo",
+  "rules": {
+    "no-unused-vars": "warn",
+    "no-console": ["warn", { "allow": ["warn", "error"] }],
+    "prefer-const": "error",
+    "no-var": "error"
+  }
+}
